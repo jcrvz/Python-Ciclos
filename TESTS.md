@@ -93,12 +93,6 @@ sudo -H pip3 install pytest
     pytest assignments/19ParesRangoFunc
     ```    
 
-- ## 19 Pares en un Rango con función
-    ### Run command
-    ```
-    pytest assignments/19ParesRangoFunc
-    ```    
-
 - ## 20 Valida si es un número primo
     ### Run command
     ```
